@@ -2,7 +2,7 @@
 
 > A curated list of awesome resources for Spec-Driven Development (SDD) - the practice of writing specifications first to guide development, testing, and documentation.
 
-Spec-Driven Development is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
+[Spec-Driven Development](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit) is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
 
 ## Resources
 
