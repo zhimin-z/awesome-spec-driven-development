@@ -8,6 +8,8 @@
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
 
+- [FPF](https://github.com/ailev/FPF) ![](https://img.shields.io/github/stars/ailev/FPF.svg) - First Principles Framework - Rigorous specification framework for modeling systems, methods, and knowledge with auditable assurance levels and machine-readable patterns.
+
 ## Tools
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
