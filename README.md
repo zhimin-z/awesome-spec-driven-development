@@ -18,7 +18,7 @@
 
 - [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
-- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg) - Breakthrough Method for Agile AI Driven Development, offering an AI-driven agile development module.
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg) - Breakthrough Method for Agile AI Driven Development; an AI-driven module that automates the software development lifecycle from design to deployment.
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
 
