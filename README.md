@@ -4,6 +4,10 @@
 
 [Spec-Driven Development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
 
+## Introductions
+
+- [How to write a good spec for AI agents](https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/) - Explores why specifications are becoming the most important skill in the age of AI agents.
+
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
@@ -12,11 +16,17 @@
 
 ## Tools
 
+- [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
+
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg) - Breakthrough Method for Agile AI Driven Development, offering an AI-driven agile development module.
+
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
 
 - [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
 
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg) - Gherkin-based spec system that auto-generates tests and links code to business rules.
+
+- [get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/github/stars/gsd-build/get-shit-done.svg) - Lightweight and powerful system for meta-prompting, context engineering, and spec-driven development.
 
 - [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
 
