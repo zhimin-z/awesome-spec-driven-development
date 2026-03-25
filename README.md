@@ -16,6 +16,10 @@
 
 ## Specification Tools
 
+- [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
+
+- [get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/github/stars/gsd-build/get-shit-done.svg) - Lightweight and powerful system for meta-prompting, context engineering, and spec-driven development.
+
 - [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
 
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
@@ -31,6 +35,8 @@
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
 ## Development Frameworks
+
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg) - Breakthrough Method for Agile AI Driven Development, offering an AI-driven agile development module.
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
 
