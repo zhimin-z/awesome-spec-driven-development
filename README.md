@@ -4,6 +4,10 @@
 
 [Spec-Driven Development](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
 
+## Introductions
+
+- [How to write a good spec for AI agents](https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/) - Explores why specifications are becoming the most important skill in the age of AI agents.
+
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
