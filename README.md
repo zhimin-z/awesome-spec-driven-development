@@ -8,6 +8,8 @@
 
 - [How to write a good spec for AI agents](https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/) - Explores why specifications are becoming the most important skill in the age of AI agents.
 
+- [Learn Harness Engineering](https://github.com/walkinglabs/learn-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/learn-harness-engineering.svg) - Project-based course on building the instructions, state, verification, scope, and session lifecycle that make AI coding agents work reliably through specification-driven harnesses.
+
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
@@ -63,6 +65,10 @@
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg) - Kanban board system for managing spec-driven development workflows.
 
 - [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg) - Documentation tool for spec-driven development workflows.
+
+## Related Lists
+
+- [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
 
 ## Contributing
 
