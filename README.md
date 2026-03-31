@@ -8,8 +8,6 @@
 
 - [How to write a good spec for AI agents](https://www.oreilly.com/radar/how-to-write-a-good-spec-for-ai-agents/) - Explores why specifications are becoming the most important skill in the age of AI agents.
 
-- [Learn Harness Engineering](https://github.com/walkinglabs/learn-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/learn-harness-engineering.svg) - Project-based course on building the instructions, state, verification, scope, and session lifecycle that make AI coding agents work reliably through specification-driven harnesses.
-
 ## Standards
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
