@@ -42,6 +42,8 @@
 
 - [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
 
+- [colign](https://github.com/colign/colign) ![](https://img.shields.io/github/stars/colign/colign.svg) - Collaborative spec-driven development platform for teams to discuss, write, review, and implement specs with AI.
+
 - [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
