@@ -10,65 +10,65 @@
 
 ## Standards
 
-- [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
+- [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg?cacheSeconds=86400) - Markdown-based specification format for defining AI agent behaviors and capabilities.
 
-- [FPF](https://github.com/ailev/FPF) ![](https://img.shields.io/github/stars/ailev/FPF.svg) - First Principles Framework - Rigorous specification framework for modeling systems, methods, and knowledge with auditable assurance levels and machine-readable patterns.
+- [FPF](https://github.com/ailev/FPF) ![](https://img.shields.io/github/stars/ailev/FPF.svg?cacheSeconds=86400) - First Principles Framework - Rigorous specification framework for modeling systems, methods, and knowledge with auditable assurance levels and machine-readable patterns.
 
 ## Specification Tools
 
-- [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
+- [adversarial-spec](https://github.com/zscole/adversarial-spec) ![](https://img.shields.io/github/stars/zscole/adversarial-spec.svg?cacheSeconds=86400) - Iteratively refines product specifications by facilitating a debate among multiple LLMs.
 
-- [get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/github/stars/gsd-build/get-shit-done.svg) - Lightweight and powerful system for meta-prompting, context engineering, and spec-driven development.
+- [get-shit-done](https://github.com/gsd-build/get-shit-done) ![](https://img.shields.io/github/stars/gsd-build/get-shit-done.svg?cacheSeconds=86400) - Lightweight and powerful system for meta-prompting, context engineering, and spec-driven development.
 
-- [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
+- [lean-spec](https://github.com/codervisor/lean-spec) ![](https://img.shields.io/github/stars/codervisor/lean-spec.svg?cacheSeconds=86400) - Lightweight framework for focused specifications under 2,000 tokens designed for humans and AI assistants.
 
-- [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
+- [MetaSpec](https://github.com/ACNet-AI/MetaSpec) ![](https://img.shields.io/github/stars/ACNet-AI/MetaSpec.svg?cacheSeconds=86400) - Meta-specification framework enabling AI agents to auto-generate spec-driven toolkits.
 
-- [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg) - Aligns developers and AI assistants on specifications before code is written.
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg?cacheSeconds=86400) - Aligns developers and AI assistants on specifications before code is written.
 
-- [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
+- [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg?cacheSeconds=86400) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
 
-- [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg) - Codebase-aware spec writing tool that keeps AI coding agents on track.
+- [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg?cacheSeconds=86400) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
-- [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
+- [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg?cacheSeconds=86400) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
 
-- [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
+- [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg?cacheSeconds=86400) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
 ## Development Frameworks
 
-- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
+- [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ![](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD.svg?cacheSeconds=86400) - Breakthrough Method for AI-driven Agile Development, providing a modular framework for agile AI workflows.
 
-- [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
+- [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg?cacheSeconds=86400) - Collaborative spec-driven development tool for writing specifications alongside code.
 
-- [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
+- [claude-codepro](https://github.com/maxritter/claude-codepro) ![](https://img.shields.io/github/stars/maxritter/claude-codepro.svg?cacheSeconds=86400) - Professional development system combining spec-driven development, TDD, and automated quality enforcement.
 
-- [colign](https://github.com/colign/colign) ![](https://img.shields.io/github/stars/colign/colign.svg) - Collaborative spec-driven development platform for teams to discuss, write, review, and implement specs with AI.
+- [colign](https://github.com/colign/colign) ![](https://img.shields.io/github/stars/colign/colign.svg?cacheSeconds=86400) - Collaborative spec-driven development platform for teams to discuss, write, review, and implement specs with AI.
 
-- [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg) - Gherkin-based spec system that auto-generates tests and links code to business rules.
+- [fspec](https://github.com/sengac/fspec) ![](https://img.shields.io/github/stars/sengac/fspec.svg?cacheSeconds=86400) - Gherkin-based spec system that auto-generates tests and links code to business rules.
 
-- [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
+- [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg?cacheSeconds=86400) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
 ## IDE & Editor Integrations
 
-- [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
+- [Kiro](https://github.com/kirodotdev/Kiro) ![](https://img.shields.io/github/stars/kirodotdev/Kiro.svg?cacheSeconds=86400) - Agentic IDE for spec-driven development from prototype to production with natural language coding.
 
-- [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
+- [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg?cacheSeconds=86400) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
 
 ## MCP Servers
 
-- [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg) - MCP server providing structured prompts for requirements, design documents, and code generation.
+- [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) ![](https://img.shields.io/github/stars/formulahendry/mcp-server-spec-driven-development.svg?cacheSeconds=86400) - MCP server providing structured prompts for requirements, design documents, and code generation.
 
 ## Workflow Management
 
-- [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg) - AI development dashboard and workflow automation platform for spec-driven development.
+- [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg?cacheSeconds=86400) - AI development dashboard and workflow automation platform for spec-driven development.
 
-- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg) - Kanban board system for managing spec-driven development workflows.
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg?cacheSeconds=86400) - Kanban board system for managing spec-driven development workflows.
 
-- [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg) - Documentation tool for spec-driven development workflows.
+- [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg?cacheSeconds=86400) - Documentation tool for spec-driven development workflows.
 
 ## Related Lists
 
-- [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
+- [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering) ![](https://img.shields.io/github/stars/walkinglabs/awesome-harness-engineering.svg?cacheSeconds=86400) - Curated list of articles, playbooks, benchmarks, specs, and open-source projects for harness engineering: shaping the environment around AI agents so they work reliably, with dedicated coverage of specs and agent files.
 
 ## Contributing
 
